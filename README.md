@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=raneemsadeh&color=blueviolet&style=flat-square)
-
 🎓 **AI & Data Science Engineering Student** at Al-Hussein Technical University (HTU)  
 📍 **Based in:** Amman, Jordan  
 🎯 **GPA:** 3.80/4.0  
