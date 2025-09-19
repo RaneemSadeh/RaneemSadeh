@@ -20,9 +20,10 @@
 
 🥇 **1st Place** - IFTP Global Innovation Challenge (Texas A&M University)  
 🏆 **Winner** - IEEE Pitching Competition with "Rafeeq" AI Transport Assistant  
+🥇 **1st Place** - MoDEE Entrepreneurship Hackathon 
 🌍 **Showcased at COP29** - BiaEye AI Waste Detection System  
-📈 **Increased student engagement by 80%** through AI workshops  
-🎯 **Organized 5+ national AI competitions** with 400+ participants
+📈 **Increased student engagement by 86%** through AI workshops  
+🎯 **Organized 5+ national AI competitions** with 500+ participants
 
 ## 🛠️ Tech Stack & Expertise
 
