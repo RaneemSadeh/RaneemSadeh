@@ -81,7 +81,7 @@
 📄 **"ExcelCancer Care: AI for Early Diagnosis"** - AI in Healthcare, 2025
 
 ## 🏅 Certifications
-<img src="Certificate_Github.png" alt="Professional Certifications Gallery" width="100%" />
+<img src="Certificate_Github_1.png" alt="Professional Certifications Gallery" width="100%" />
 </div>
 
 ## 📊 GitHub Analytics
