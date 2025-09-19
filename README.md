@@ -14,7 +14,7 @@
 🔬 **Currently working as:**
 - 🧠 **AI/ML Engineer** (2022 - Present)
 - 👨‍💼 **Technical Lead @DSC** - Managing 150+ members
-- 🔬 **Scientific Research Specialist @HTU** - Leading research initiatives
+- 🔬 **Scientific Research Specialist @Scientific Research and Innovation Department, HTU** - Leading research initiatives
 
 ## 🏆 Recent Achievements
 
@@ -81,12 +81,8 @@
 📄 **"ExcelCancer Care: AI for Early Diagnosis"** - AI in Healthcare, 2025
 
 ## 🏅 Certifications
-
-🎓 **Machine Learning Specialization** - Stanford University  
-🎓 **Deep Learning Specialization** - DeepLearning.AI  
-🎓 **Python for Data Science, AI & Development** - IBM  
-🎓 **Google Advanced Data Analytics Capstone** - Google  
-🎓 **Object-Oriented Data Structures in C++** - University of Illinois
+<img src="Certificate_Github.png" alt="Professional Certifications Gallery" width="100%" />
+</div>
 
 ## 📊 GitHub Analytics
 
