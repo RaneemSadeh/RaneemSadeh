@@ -58,7 +58,7 @@
 
 ### 🔍 BiaEye — AI Waste Detection System
 - **Tech:** YOLOv11, Computer Vision
-- **Achievement:** 95% accuracy, Showcased at COP29
+- **Achievement:** 95% accuracy, Choosen to showcase at COP29
 - **Impact:** Environmental sustainability through AI
 
 <img width="600" height="300" alt="BiaEye AI Waste Detection" src="https://github.com/user-attachments/assets/8132858d-d7f8-4103-aaf8-ed5f3739502c" />
