@@ -13,8 +13,8 @@
 
  **Currently working as:**
 -  **AI/ML Engineer** (2022 - Present)
--  **Technical Lead @DSC** - Managing 150+ members
--  **Scientific Research Specialist @Scientific Research and Innovation Department, HTU** - Leading research initiatives
+-  **Technical Lead @DSC** - Managing 150+ members (2024 - Present)
+-  **Scientific Research Specialist @Scientific Research and Innovation Department, HTU** - Leading research initiatives (2025 - Present)
 
 ## 🏆 Recent Achievements
 
@@ -111,21 +111,12 @@
  **80% increase in student engagement** through workshops  
  **Leading scientific research initiatives** at HTU
 
-## 📈 Contribution Activity
-
-[![Raneem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raneemsadeh&theme=react-dark&hide_border=true)](https://github.com/raneemsadeh)
-
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raneem-sadeh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raneem.sadeh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raneemsadeh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raneemsadehport.tiiny.site/)
 
-##  Random AI Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 <div align="center">
   <h3> "Transforming ideas into intelligent solutions, one algorithm at a time" 🚀</h3>
