@@ -94,15 +94,14 @@
 </div>
 
 <div align="center">
-  <a href="https://www.credly.com/badges/90bccf59-8621-440c-bd92-78bcd8348a1b" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/5f826bbb-5028-4ed0-aa9b-f5d402f96a0b/Coursera_20Build_20RAG_20Applications_20Get_20Started.png" alt="Build RAG Applications" width="150">
+  <a href="[https://www.credly.com/badges/90bccf59-8621-440c-bd92-78bcd8348a1b](https://www.credly.com/badges/90bccf59-8621-440c-bd92-78bcd8348a1b/public_url)" target="_blank">
+    <img src="RAG.png" alt="Build RAG Applications" width="150">
   </a>
-  <a href="https://images.credly.com/size/110x110/images/af456ad3-b7d9-4252-a642-181a604103b2/image.png" target="_blank">
-    <img src="https://www.credly.com/badges/3072b6bd-8606-4d61-8d5f-c0100b69aaf9/public_url" alt="Second Badge" width="150">
+  <a href="https://www.credly.com/badges/3072b6bd-8606-4d61-8d5f-c0100b69aaf9/public_url" target="_blank">
+    <img src="nutanix-certified-associate-6.png" alt="Second Badge Name" width="150">
   </a>
-  <a <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/61f9104f-54d4-4c63-b656-7deaecb7551d" />
->
-    <img src="https://www.credly.com/badges/58f1e82d-bb28-45c9-9107-6ab359a94ea4/public_url" alt="Third Badge" width="150">
+  <a href="https://www.credly.com/badges/58f1e82d-bb28-45c9-9107-6ab359a94ea4/public_url" target="_blank">
+    <img src="Generative.png" alt="Third Badge Name" width="150">
   </a>
 </div>
 
