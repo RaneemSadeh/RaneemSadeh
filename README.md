@@ -100,9 +100,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raneemsadeh&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raneemsadeh&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🌟 Leadership & Impact
 
