@@ -128,5 +128,5 @@
 ---
 
 <div align="center">
-  ⭐️ From [Raneem Sa'deh](https://github.com/raneemsadeh) | 940+ hours of ML magic ✨
+  ⭐️Raneem Sa'deh⭐️
 </div>
