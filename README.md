@@ -12,7 +12,7 @@
  **940+ hours** of hands-on ML development experience  
 
  **Currently working as:**
--  **AI/ML Engineer** (2022 - Present)
+-  **AI Engineer Freelancer @Aljazeera** (2022 - Present)
 -  **Technical Lead @DSC** - Managing 150+ members (2024 - Present)
 -  **Scientific Research Specialist @Scientific Research and Innovation Department, HTU** - Leading research initiatives (2025 - Present)
 
