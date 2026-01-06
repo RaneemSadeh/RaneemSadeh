@@ -19,10 +19,15 @@
 ## 🏆 Recent Achievements
 
  **1st Place** - IFTP Global Innovation Challenge (Texas A&M University)  
+ 
  **1st Place** - MoDEE Entrepreneurship Hackathon 
+ 
  **3rd Place** - IEEE Pitching Competition with "Rafeeq" AI Transport Assistant  
+ 
  **Increased student engagement by 86%** through AI workshops  
+ 
  **Organized 5+ national AI competitions** with 500+ participants
+ 
 
 ## 🛠️ Tech Stack & Expertise
 
