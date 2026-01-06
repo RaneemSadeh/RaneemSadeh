@@ -54,36 +54,6 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![RoboFlow](https://img.shields.io/badge/RoboFlow-6366F1?style=for-the-badge&logo=roboflow&logoColor=white)
 
-## Featured Projects
-
-### 🔍 BiaEye — AI Waste Detection System
-- **Tech:** YOLOv11, Computer Vision
-- **Achievement:** 95% accuracy, Choosen to showcase at COP29
-- **Impact:** Environmental sustainability through AI
-
-<img width="600" height="300" alt="BiaEye AI Waste Detection" src="https://github.com/user-attachments/assets/8132858d-d7f8-4103-aaf8-ed5f3739502c" />
-
-### 🌌 NASA Geomagnetic Storm Forecasting
-- **Tech:** RNN, TensorFlow, Time Series Analysis
-- **Performance:** 2 seconds per data batch processing
-- **Application:** Mission-critical space operations
-
-<img width="600" height="300" alt="NASA Geomagnetic Storm Forecasting" src="https://github.com/user-attachments/assets/4217a1d5-3921-4c14-9e41-4ca3a81b37b1" />
-
-### 🏥 ExcelCancer Care — AI Ultrasound Analysis
-- **Tech:** Deep Learning, Medical Imaging
-- **Research:** AI-based early detection
-- **Recognition:** Presented at "AI in Health" regional event
-
-<img width="600" height="300" alt="ExcelCancer Care" src="https://github.com/user-attachments/assets/edfa926f-21d8-4e3d-a10e-c661fb5dfaf4" />
-
-### 🚀 Autonomous Robotic Arm
-- **Tech:** Deep Q-Learning, TensorFlow, Reinforcement Learning
-- **Simulation:** Lunar landing operations
-
-<img width="600" height="300" alt="Autonomous Robotic Arm" src="https://github.com/user-attachments/assets/0e71698f-feb5-4918-aca4-1c5745fa41b8" />
-
-
 ## 📚 Research & Publications
 
 📄 **"BiaEye: AI-Powered Waste Monitoring System"** - IEEE, 2024  
