@@ -6,7 +6,7 @@
 
 ##  About Me
 
-🎓 **AI & Data Science Engineering Student** at Al-Hussein Technical University (HTU)  
+ **AI & Data Science Engineering Student** at Al-Hussein Technical University (HTU)  
  **Based in:** Amman, Jordan  
  **GPA:** 3.8/4.0  
  **940+ hours** of hands-on ML development experience  
@@ -61,8 +61,8 @@
 
 ##  Research & Publications
 
-📄 **"BiaEye: AI-Powered Waste Monitoring System"** - IEEE, 2024  
-📄 **"ExcelCancer Care: AI for Early Diagnosis"** - AI in Healthcare, 2025
+ **"BiaEye: AI-Powered Waste Monitoring System"** - IEEE, 2024  
+ **"ExcelCancer Care: AI for Early Diagnosis"** - AI in Healthcare, 2025
 
 ##  Certifications & Badges
 <img src="Certificate_Github_1.png" alt="Professional Certifications Gallery" width="100%" />
