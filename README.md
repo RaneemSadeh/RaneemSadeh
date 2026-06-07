@@ -7,22 +7,26 @@
 ##  About Me
 
  **AI & Data Science Engineering Student** at Al-Hussein Technical University (HTU)  
- **Based in:** Amman, Jordan  
- **GPA:** 3.8/4.0  
- **940+ hours** of hands-on ML development experience  
+ **GPA:** 3.71/4.0  
+ **1940+ hours** of hands-on ML development experience  
 
  **Currently working as:**
+-  **Artificial Intelligence and Data Privacy Inter @Safwa Bank** (Feb 2026 - Present)
 -  **AI Engineer Freelancer @Aljazeera** (2025 - Present)
 -  **Technical Lead @DSC** - Managing 150+ members (2024 - 2026)
 -  **Scientific Research Specialist @Scientific Research and Innovation Department, HTU** - Leading research initiatives (2025 - 2026)
 
 ##  Recent Achievements
 
- **1st Place** - IFTP Global Innovation Challenge (Texas A&M University)  
+ **🥇 1st Place** - IFTP Global Innovation Challenge (Texas A&M University)  
  
- **1st Place** - MoDEE Entrepreneurship Hackathon 
+ **🥇 1st Place** - MoDEE Entrepreneurship Hackathon 
+
+ **🥇 1st Place** - Scientific Research Day (Al-Hussien Technical University)
  
- **3rd Place** - IEEE Pitching Competition with "Rafeeq" AI Transport Assistant  
+ **🥉 3rd Place** - IEEE Pitching Competition with "Rafeeq" AI Transport Assistant
+
+ **🥉 3rd Place** - Jordanian Nuclear Science Competition 2026
  
  **Increased student engagement by 86%** through AI workshops  
  
@@ -89,11 +93,13 @@
  **Leading scientific research initiatives** at HTU
 
 ##  Let's Connect!
-
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raneem-sadeh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raneem.sadeh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raneemsadehport.tiiny.site/)
 
+</div>
 
 <div align="center">
   <h3> "Transforming ideas into intelligent solutions, one algorithm at a time" </h3>
