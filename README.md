@@ -28,7 +28,7 @@
 
  **🥉 3rd Place** - Jordanian Nuclear Science Competition 2026
  
- **Increased student engagement by 86%** through AI workshops  
+ **Increased student engagement by 92%** through AI workshops  
  
  **Organized 5+ national AI competitions** with 500+ participants
  
