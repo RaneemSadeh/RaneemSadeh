@@ -27,6 +27,10 @@
  **🥉 3rd Place** - IEEE Pitching Competition with "Rafeeq" AI Transport Assistant
 
  **🥉 3rd Place** - Jordanian Nuclear Science Competition 2026
+
+ **Incubated** - "Rafeeq" AI Transport Assistant, incubated by **Orange**
+ 
+ **Incubated** - "BiaEye" AI-Powered Waste Monitoring System, incubated by the **Ministry of Digital Economy and Entrepreneurship (MoDEE)**
  
  **Increased student engagement by 92%** through AI workshops  
  
@@ -90,7 +94,6 @@
  **Managing 150+ club members** as Technical Lead  
  **Organized 400+ participant competitions** nationwide  
  **80% increase in student engagement** through workshops  
- **Leading scientific research initiatives** at HTU
 
 ##  Let's Connect!
 <div align="center">
