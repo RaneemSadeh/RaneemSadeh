@@ -6,7 +6,7 @@
 
 ##  About Me
 
- **AI & Data Science Engineering Student** at Al-Hussein Technical University (HTU)  
+ **AI & Data Science Engineer**
  **GPA:** 3.71/4.0  
  **1940+ hours** of hands-on ML development experience  
 
