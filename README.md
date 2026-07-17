@@ -92,8 +92,8 @@
 ##  Leadership & Impact
 
  **Managing 150+ club members** as Technical Lead  
- **Organized 400+ participant competitions** nationwide  
- **80% increase in student engagement** through workshops  
+ **Organized 500+ participant competitions** nationwide  
+ **92% increase in student engagement** through workshops  
 
 ##  Let's Connect!
 <div align="center">
