@@ -13,7 +13,7 @@
  **1940+ hours** of hands-on ML development experience  
 
  **Currently working as:**
--  **Artificial Intelligence and Data Privacy Inter @Safwa Bank** (Feb 2026 - Present)
+-  **Artificial Intelligence and Data Privacy Internship @Safwa Bank** (Feb 2026 - Present)
 -  **AI Engineer Freelancer @Aljazeera** (2025 - June 2026)
 -  **Technical Lead @DSC** - Managing 150+ members (2024 - 2026)
 -  **Scientific Research Specialist @Scientific Research and Innovation Department, HTU** - Leading research initiatives (2025 - 2026)
